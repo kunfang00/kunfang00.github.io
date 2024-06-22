@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - Kun FANG</title>
+        <link>http://kunfang.info/categories/</link>
+        <description>Categories - Category - Kun FANG</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 27 Aug 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://kunfang.info/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Research</title>
+    <link>http://kunfang.info/categories/research/</link>
+    <pubDate>Sun, 27 Aug 2023 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>http://kunfang.info/categories/research/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

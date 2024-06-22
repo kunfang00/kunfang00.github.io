@@ -1,0 +1,35 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Research - Tag - Kun FANG</title>
+        <link>http://kunfang.info/tags/research/</link>
+        <description>Research - Tag - Kun FANG</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 27 Aug 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://kunfang.info/tags/research/" rel="self" type="application/rss+xml" /><item>
+    <title>Quantum NETwork: from theory to practice</title>
+    <link>http://kunfang.info/quantum-network/</link>
+    <pubDate>Sun, 27 Aug 2023 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>http://kunfang.info/quantum-network/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/featured-image.png" referrerpolicy="no-referrer">
+            </div>The quantum internet is envisioned as the ultimate stage of the quantum revolution, which surpasses its classical counterpart in various aspects, such as the efficiency of data transmission, the security of network services, and the capability of information processing. Given its disruptive impact on the national security and the digital economy, a global race to build scalable quantum networks has already begun. With the joint effort of national governments, industrial participants, and research institutes, the development of quantum networks has advanced rapidly in recent years, bringing the first primitive quantum networks within reach.]]></description>
+</item><item>
+    <title>Fundamental Limits of Practical Quantum Technology</title>
+    <link>http://kunfang.info/nogo-theorems/</link>
+    <pubDate>Tue, 22 Aug 2023 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>http://kunfang.info/nogo-theorems/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/featured-image.png" referrerpolicy="no-referrer">
+            </div>Quantum technologies such as quantum computing have the potential of revolutionizing our lives. However, the inherent susceptibility of quantum systems to errors and noise effects in practical scenarios poses serious challenges to the implementation of quantum technologies. To put the theoretically blueprinted quantum advantages into use, scientists have devoted significant efforts to developing better and better methods for battling with noise. But meanwhile, our understanding about the theoretical limits to the performance of such methods under practical constraints, which may determine the ultimate efficiency of quantum technologies, is very limited.]]></description>
+</item><item>
+    <title>Distillation and Simulation in Quantum Information</title>
+    <link>http://kunfang.info/distillation-and-simulation/</link>
+    <pubDate>Thu, 22 Aug 2019 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>http://kunfang.info/distillation-and-simulation/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/featured-image.png" referrerpolicy="no-referrer">
+            </div>We use the techniques of convex optimization, especially semidefinite programming, to study two kinds of fundamental tasks, i.e., distillation and simulation in quantum information theory. We investigate these tasks in a unified framework of resource theory and focus on their computation and characterization with finite resources. Particularly we study the tradeoff among relevant parameters such as the number of resource copies, resource transformation rate, error tolerance and success probability.
+In the first part, we study the task of distillation for two different resources, maximally entangled state and maximally coherent state, representing nonlocal and local &ldquo;quantumness&rdquo; respectively.]]></description>
+</item></channel>
+</rss>
